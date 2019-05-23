@@ -1,4 +1,4 @@
-# ##Smart-Survillence-Using-Opencv and DLib
+Smart-Survillence-Using-Opencv and DLib
 
 ![Screenshot (311)](https://user-images.githubusercontent.com/30752161/58224261-b0d78400-7d3a-11e9-8515-ca410b8032af.png)
 
