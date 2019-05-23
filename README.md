@@ -9,6 +9,11 @@ this project can classify user and can detect whether the person is user or jst 
 
 #install dlib  conda install -c conda-forge dlib=19.4\
 #install opencv pip install opencv-python-contrib
+DOWNNLOAD shape_predictor_68_face_landmarks.DAT FILE FROM
+https://github.com/davisking/dlib-models
+PASTE IT IN SAME DIRECTORY WITH IPYNB FILE
+AFTER INSTALLING PACKAGE RUN SMART SURVILLENCE USING OPENCV AND FACIAL LANDMARK.IPYNB 
+
 This includes:
 * MOTION DETECTION
 * BLINK DETECTION
