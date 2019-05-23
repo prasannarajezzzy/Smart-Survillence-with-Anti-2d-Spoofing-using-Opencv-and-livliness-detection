@@ -9,6 +9,10 @@ this project can classify user and can detect whether the person is user or jst 
 
 #install dlib  conda install -c conda-forge dlib=19.4\
 #install opencv pip install opencv-python-contrib
+This includes:
+* MOTION DETECTION
+* BLINK DETECTION
+* USER RECO
 
 ***WORK FLOW***
 
@@ -19,7 +23,7 @@ this project can classify user and can detect whether the person is user or jst 
 ![image](https://user-images.githubusercontent.com/30752161/58225103-22fd9800-7d3e-11e9-892f-789aac0092c0.png)  
 
 
-***1.MOTION ANALYSIS ***
+***1.MOTION ANALYSIS***
 
 ![image](https://user-images.githubusercontent.com/30752161/58225443-b2577b00-7d3f-11e9-8f32-5719eadf6c48.png)
 
