@@ -21,6 +21,7 @@ this project can classify user and can detect whether the person is user or jst 
 
 
 ***Motion analysis ***
+
 ![image](https://user-images.githubusercontent.com/30752161/58225280-ed0ce380-7d3e-11e9-9671-0e4e5900f7e5.png)
 
 
