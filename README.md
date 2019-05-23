@@ -9,6 +9,8 @@ this project can classify user and can detect whether the person is user or jst 
 #install dlib  conda install -c conda-forge dlib=19.4\
 #install opencv pip install opencv-python-contrib
 
+***WORK FLOW***
+
 ![image](https://user-images.githubusercontent.com/30752161/58225109-2bee6980-7d3e-11e9-9ac9-10ae95970ac8.png)
 
 
